@@ -159,7 +159,8 @@ moodmate/
 │   └── package.json
 └── README.md
 ```
-
+<img src="https://github.com/deepthireddy246/moodmate/blob/main/output1.png" alt="Banner" width="100%">
+<img src="https://github.com/deepthireddy246/moodmate/blob/main/output2.png" alt="Banner" width="100%">
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
